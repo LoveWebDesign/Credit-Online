@@ -180,7 +180,7 @@ h1 {
 	line-height: 164px;
 	padding-right: 0;
 	text-align: center;
-	width: 209px;	
+	min-width: 209px;	
 }
 
 .bl1 img {
@@ -198,7 +198,7 @@ h1 {
 	line-height: 1;
 	padding-top: 65px;
 	text-align: center;
-	width: 126px;	
+	min-width: 126px;	
 }
 
 .bl2 span {
@@ -216,7 +216,7 @@ h1 {
 	line-height: 33px;
 	padding: 47px 10px;
 	text-align: center;
-	width: 138px;
+	min-width: 138px;
 }
 
 .fore-part {
@@ -241,7 +241,7 @@ h1 {
 	height: 164px;
 	line-height: 30px;
 	padding: 23px 0 0 10px;
-	width: 205px;	
+	min-width: 205px;	
 }
 
 .bl4 ul {
@@ -263,7 +263,7 @@ h1 {
 	background: #f5f5f5;
 	border-left: 1px solid #fff;
 	height: 164px;
-	width: 215px;
+	min-width: 215px;
 }
 
 .oform, 
